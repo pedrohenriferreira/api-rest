@@ -28,7 +28,7 @@ Para iniciar o servidor, utilize o comando:
 npm start
 ```
 
-A API será executada em `http://localhost:3000/` (ou outra porta configurada).
+A API será executada em `http://localhost:400/` 
 
 ## Rotas da API
 
@@ -47,4 +47,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Node.js
 - Express
 - TypeScript
-- MongoDB (ou outro banco de dados, caso aplicável)
+- MongoDB 
